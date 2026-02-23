@@ -1,0 +1,112 @@
+{
+  "source_url": "https://shivambhati21.wixsite.com/shivam-bhati",
+  "person": {
+    "name": "Shivam Bhati",
+    "title": "Gameplay | Physics Programmer",
+    "education": "Bachelors of Technology IIT Roorkee",
+    "current_employment": "Beyond Labs - London UK (Remote)",
+    "email": "shivambhati21@gmail.com"
+  },
+  "highlights": [
+    "Developed the physics system for the game.",
+    "Created the network layer for the real time game features.",
+    "Designed the game architecture and core game loop with network commands.",
+    "Developed and designed the message codes for the optimal communication between the client and the server.",
+    "Heavily optimised the game to run smoothly on a 2GB android device.",
+    "Worked on the game for nearly 2 years until it's successful (1Mn+ downloads)."
+  ],
+  "about": "With over five years of professional game development experience, a portfolio includes games that have achieved over 5 million downloads on the Play Store. Experience in real-time multiplayer game development using Nakama and SmartFox Server. Expertise across Unity, Unreal, Cocos, and LibGDX. Graduate of IIT Roorkee with experience developing blockchain games.",
+  "projects": [
+    {
+      "name": "Bull Run",
+      "details": [
+        "Developed a endless runner game on a Bullieverse blockchain.",
+        "Designed the architecture for wallet and passport to handle the blockchain events and API's.",
+        "Use C++ & BluePrint for the development of the game.",
+        "Designed subsystem in Unreal for authentication and NFT handling.",
+        "Designed and Developed key features to make the game interesting."
+      ]
+    },
+    {
+      "name": "Football World : Real People",
+      "details": [
+        "Developed the physics system for the game.",
+        "Created the network layer for the real time game features.",
+        "Designed the game architecture and core game loop with network commands.",
+        "Developed and designed the message codes for the optimal communication between the client and the server.",
+        "Heavily optimised the game to run smoothly on a 2GB android device.",
+        "Worked on the game for nearly 2 years until it's successful (1Mn+ users)."
+      ]
+    },
+    {
+      "name": "Short Glimpse",
+      "details": [
+        "Implemented the Leaderboard and the Friends section.",
+        "Integrated Facebook, Firebase and Google Ads.",
+        "Created login logic and created flow for login data to start the game.",
+        "Worked closely with the design team to communicate the requirement for the optimal development.",
+        "Designed the whole interface to changes between menus.",
+        "Created the whole project from ground up from Hello World.",
+        "Optimised game using different optimisation techniques, such as culling, ball sprite shadow, scale 9 technique etc."
+      ]
+    },
+    {
+      "name": "GMNG (Ludo)",
+      "details": [
+        "A modified version of a Ludo board game.",
+        "Backed the game with smart fox server application to keep the game, server authorised.",
+        "Hosted the smart fox application on AWS ec2 Instance.",
+        "Ideated unique mini Ludo concept which reduced the one game round from 10 mins to 2-3 mins.",
+        "Network layer created with the core game loop to keep the game in sync with the server."
+      ]
+    },
+    {
+      "name": "GMNG (Carrom)",
+      "details": [
+        "Wrote custom collision physics for the carrom board game.",
+        "Implemented Conservation Of Momentum for the collisions.",
+        "Modified the classic carrom game and added it with archery.",
+        "Network layer created with the core game loop to update the scores and make the game competitive.",
+        "More than 20k daily active users with a CCU handling of 5k active players."
+      ]
+    },
+    {
+      "name": "GetMega",
+      "details": [
+        "Built carrom game network logic.",
+        "Reskinned the whole game with futuristic animation.",
+        "Modified the classic carrom game and added it with archery.",
+        "Network layer created with the core game loop to update the scores and make the game competitive.",
+        "More than 20k daily active users with a CCU handling of 5k active players."
+      ]
+    }
+  ],
+  "journey": [
+    {
+      "company": "GetMega",
+      "dates": "June 2020 - Feb 2021",
+      "summary": "Focused on real-time multiplayer games; used Libgdx (Java) client and Nakama (Golang) backend."
+    },
+    {
+      "company": "GMNG",
+      "dates": "Feb 2021 - Feb 2022",
+      "summary": "Led the gaming verticals, set up the gaming department, and worked on Unity projects while learning backend setup for game development."
+    },
+    {
+      "company": "Splash Learn",
+      "dates": "Feb 2022 - Sept 2022",
+      "summary": "Developed kids' math learning games using Coco2dx with JavaScript."
+    },
+    {
+      "company": "Audify",
+      "dates": "Sept 2022 - March 2024",
+      "summary": "Lead Game Developer; built a football game from prototype to production, covering the full development lifecycle."
+    }
+  ],
+  "awards": [
+    "Football world game was nominated by Google for User's Choice Awards 2023."
+  ],
+  "notes": [
+    "Original site mentions Wix branding and image assets by filename (e.g., A542AFDA-DF21-4670-AB91-A2F5ABC6260D.jpg)."
+  ]
+}
