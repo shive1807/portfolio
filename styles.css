@@ -397,8 +397,14 @@ a {
 
 .contact-actions {
   display: grid;
-  gap: 0.6rem;
+  gap: 1rem;
   justify-items: end;
+  min-width: 240px;
+}
+
+.contact-primary {
+  display: grid;
+  gap: 0.6rem;
 }
 
 .contact-socials {
