@@ -271,10 +271,38 @@ a {
   margin: 0.8rem 0 1rem;
 }
 
+.project-media {
+  width: 100%;
+  margin: 0.8rem 0 1rem;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.28);
+}
+
+.project-media img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 .tags {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
+}
+
+.project-link {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 1rem;
+  color: var(--primary-strong);
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.project-link:hover {
+  color: var(--text);
 }
 
 .tags span {
