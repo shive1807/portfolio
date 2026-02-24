@@ -401,6 +401,35 @@ a {
   justify-items: end;
 }
 
+.contact-socials {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-weight: 600;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.social-link svg {
+  width: 18px;
+  height: 18px;
+}
+
+.social-link:hover {
+  transform: translateY(-1px);
+  color: var(--primary-strong);
+}
+
 .site-footer {
   border-top: 1px solid var(--border);
   padding: 2rem 0;
@@ -428,6 +457,10 @@ a {
 
   .contact-actions {
     justify-items: start;
+  }
+
+  .contact-socials {
+    justify-content: flex-start;
   }
 
   .section-title {
