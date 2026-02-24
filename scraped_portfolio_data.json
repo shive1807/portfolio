@@ -4,8 +4,9 @@
     "name": "Shivam Bhati",
     "title": "Gameplay | Physics Programmer",
     "education": "Bachelors of Technology IIT Roorkee",
-    "current_employment": "Beyond Labs - London UK (Remote)",
-    "email": "shivambhati21@gmail.com"
+    "current_employment": "GameDuell - Germany (Aug 2024 - Present)",
+    "email": "shivambhati21@gmail.com",
+    "phone": "+91 8958482418"
   },
   "highlights": [
     "Developed the physics system for the game.",
@@ -101,6 +102,11 @@
       "company": "Audify",
       "dates": "Sept 2022 - March 2024",
       "summary": "Lead Game Developer; built a football game from prototype to production, covering the full development lifecycle."
+    },
+    {
+      "company": "GameDuell",
+      "dates": "Aug 2024 - Present",
+      "summary": "Working at GameDuell, Germany."
     }
   ],
   "awards": [
