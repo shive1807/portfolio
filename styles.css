@@ -355,6 +355,32 @@ a {
   background: rgba(255, 255, 255, 0.03);
 }
 
+.about-body {
+  display: grid;
+  grid-template-columns: 1fr minmax(240px, 300px);
+  gap: 3rem;
+  align-items: start;
+  margin-top: 2rem;
+}
+
+.about-story p {
+  color: var(--muted);
+  font-size: 1.05rem;
+  line-height: 1.8;
+  margin-bottom: 1.1rem;
+}
+
+.about-story strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.about-closing {
+  margin-top: 0.5rem;
+  font-size: 1.1rem !important;
+  color: var(--text) !important;
+}
+
 .checklist {
   list-style: none;
   margin-top: 1rem;
@@ -471,5 +497,9 @@ a {
 
   .section-title {
     align-items: flex-start;
+  }
+
+  .about-body {
+    grid-template-columns: 1fr;
   }
 }
